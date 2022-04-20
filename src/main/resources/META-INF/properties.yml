@@ -1,0 +1,4 @@
+my:
+  VAR1 : CONTENIDO DE VALOR1
+  VAR2 : 100
+  VAR3 : {VAR_SISTEMA1:var3_no_tiene_valor}
