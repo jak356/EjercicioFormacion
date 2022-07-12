@@ -6,9 +6,9 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      default-zone: http://eureka-container:8761/eureka
+      defaultZone: http://eureka-container:8761/eureka
   instance:
-    hostname: localhost
+    hostname: eureka-container
 
 spring:
   cloud:
